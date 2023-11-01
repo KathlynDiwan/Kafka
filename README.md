@@ -1,4 +1,4 @@
-# Ponderada 
+# Ponderada Kafka S2M8
 
 Esse documento foi criado com o intuito de conseguir responder de forma clara o autoestudo ponderado de programação da semana 02. O autoestudo em questão exigia a criação d eum docker-compose com todos os parâmetros de um kafka e seus gerenciadores e um exemplo de produção e consumo de mensagem local.
 
