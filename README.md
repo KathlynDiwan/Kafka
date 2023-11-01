@@ -9,3 +9,5 @@ Steps para execução:
 - Primeiro de tudo, você deve iniciar com o comando `docker-compose up`
 - Depois disso, iniciar dois terminais distintos, um que servirá como reciver, e um como sender. 
 - As mensagens serão enviadas do produtor para o consumidor em questão.
+- E para finalizar você deve colocar o comando  `docker-compose down`.
+- Você conseguirá ver a troca de mensagens. 
